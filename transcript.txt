@@ -1,0 +1,248 @@
+1;accumbo;discumbo;concumbo
+accumbo<opt>, accumbere</opt>;discumbo<opt>, discumbere</opt>;concumbo<opt>, concumbere</opt>
+**Accumbere**, est cum alio iacere, cibi capiendi gratia, **Discumbere** mihi videtur multi cum aliis hinc illinc accumbentes, **Concumbere** vero est veneris operam dare. <cit><bibl><author>Cic.</author> <title>Verr. 3.</title></bibl> <quote>mature veniunt, discumbitur</quote></cit>, quod mihi videtur, __cum aliis hinc illinc accumbunt__.
+
+1;albus;candens;candeo
+albus;candens
+**Album** caret splendore, **candens** vero ita album est, vt etiam splendeat.
+
+1;angiportus;angiportum;vicus;fundula
+angiportus<opt> vel angiportum</opt>;vicus;fundula
+**Angiportus** vel **Angiportum** significat vicum angustum &amp; flexuosum, vel peruium, vel not peruium. <cit><bibl><author>Terent.</author> in <title>Adelph. 4.2.39</title></bibl> <quote>id quidem angiportum non est peruium</quote></cit>. **Vicus**, a via, est ampla platea. <bibl><author>Cic.</author> <title>ad Famil. 14. 1.</title> &amp; in <title>Orat. pro Milone cap. 24.</title></bibl> **Fundula** est platea in oppido quae introitum quidem habet, sed nullum exitum, atque adeo non peruia est, germ. <foreign xml:lang="de">ein Sack, Loch</foreign>. <bibl><author>Varr.</author> <title>de L. L. 4. 32.</title></bibl>
+
+1;ars;doctrina
+ars;doctrina
+**Ars**, quae collectione praeceptorum constat, vt grammatica &amp; rhetorica, **Doctrina** vero exemplis &amp; institutionibus perficitur, vt doctrina Philisophiae &amp; legum. <cit><bibl><author>Cic.</author> in <title>Epist. ad Famil. lib. IV. Epist. 4.</title></bibl> <quote>nam &amp; si a prima aetate me omnis ars &amp; doctrina liberalis, &amp; maxime Philosophia delectauit</quote></cit>.
+
+1;asper;lenis
+asper;lenis
+**Asperum** laedit, **Lene** demulcet. <cit><bibl><author>Virg.</author> <title>Georg. 4. 277.</title></bibl> <quote>sapor asper</quote></cit>. **Lene** in tactu proprie dicitur, cuius contrarium est **Asperum**. Sed per translationem **Lene** in gustu, quod suaue est, appellatur, &amp; transfertur etiam ad animum, vt mitem dicamus **lenem**. <cit><bibl><author>Cic.</author> in <title>Verr. 3. 32.</title></bibl> <quote>lenissimus homo &amp; natura &amp; consuetudine &amp; disciplina</quote></cit>.
+
+1;aviarium;avium
+aviarium;avium
+**Auiaria**, in quibus aues sunt, **Auia** sine via. <bibl><author>Land.</author></bibl>
+
+1;caesaries;coma;κόμη
+caesaries;coma
+**Caesaries** in viris est, quoniam caedatur, **Coma** autem, quod graecum est, sunt capilli cum cura compositi, &amp; proprie in mulieribus dicuntur. <bibl><author>Land.</author></bibl>
+
+2;calceus;caliga;pero;peronis
+calceus;caliga;pero
+**Calceus** est genus, **caligae** &amp; **perones** autem species, hae enim rusticorum, illae militum sunt.
+
+2;caussa tua;tua caussa;tui caussa;causa tua;tua causa;tui causa;caussa;causa
+tua caussa;tui caussa
+**Caussa tua** &amp; **tui caussa** differunt. Tunc enim **tua caussa** dicimus, quando ad tuam, vt ita loquar, petitionem aliquid alteri quis contulerit, vel boni vel mali, verum **tui caussa**, quando aliquid tibi praestiterit, cum quo loquitur.
+
+2;collis;mons;montis
+collis;mons
+**Collis** minor minusque altus, quam mons, **Montes** altissima &amp; excelsissima loca dicimus. <bibl><author>Land.</author></bibl>
+
+2;comes;comitis;dux;ducis
+comes;dux
+**Comes** sequendo aliquem se maiorem concomitatur, **Dux** vero se minorem. Sic <cit><bibl><author>Cic.</author></bibl> <quote>non comitem, sed ducem se praebuit</quote></cit>.
+
+2;compes;compedis;manica
+compes;manica
+**Compedes** dicimus, quibus pedes, **manicas**, quibus manus colligantur. <cit><bibl><author>Plaut.</author> <title>Asin. 2. 2. 38.</title></bibl> <quote>vbi manus manicae complexae sunt, atque adductae ad trabem</quote></cit>.
+
+2;confessor;confessoris;martyr;martyris
+confessor;martyr
+**Confessores** appellabantur, qui propter fidei confessionem carceribus inclusi fuerant, sed cruciatus aut tormenta nulla sustinuerant hactenus. **Martyres** autem dicebantur, non ii solum, qui mortem pro Christo obierant, sed etiam qui saeuitiam tormentorum &amp; cruciatus fortiter pertulerant, &amp; in vita remanserant. Vid. <bibl><author>Conr. Hornei</author> <title>Histor. Eccles. l. 3. c. 5. §. 26.</title></bibl>
+
+2;cubo;incubo
+cubo<opt>, cubare</opt>;incubo<opt>, incubare</opt>
+**Cubare** proprie est, cum morbi caussa iacemus, <cit><bibl><author>Horat.</author> <title>Epist. 2. 2. 68.</title></bibl> <quote>cubat hic in colle Quirini</quote></cit>. **Incubare** vero dicuntur aues, cum oua pullosue fouent. <quote>Oua, quae incubantur</quote>. <bibl><author>Varro</author> <title>de Re Rust. 3. 9.</title></bibl>
+
+2;curriculum;cursus
+curriculum;cursus
+**Curriculum** in certamine dicunt, quod a carceribus ad calcem vsque curritur. <cit><bibl><author>Horat.</author> <title>Od. l. 1. 1. 3.</title></bibl> <quote>sunt quos curriculo puluerem Olympicum collegisse iuuat</quote></cit>. **Cursus** autem est actus currendi. <quote>Omnis omnium cursus</quote> est ad nos. <bibl><author>Cic.</author></bibl>
+
+2;cutis;pellis
+cutis;pellis
+**Cutem** in homine solo dicimus, **Pellem** vero in brutis. <cit><bibl><author>Virg.</author></bibl> <quote>fulua pellis leonis</quote></cit>.
+
+2;deduco;subduco
+deduco<opt>, deducere</opt>;subduco<opt>, subducere</opt>
+**Deducuntur** naues de terra in mare, de mari **subducuntur** in terram. <bibl><author>Virgil.</author> <title>Aeneid. 1. 551.</title></bibl>
+
+2;designator;designatoris;locarius
+designator;locarius
+**Designator** est, qui loca publica ordine distribuerit in spectaculis, inter honoratos publico ministerio, **Locarius**, qui popularia loca promiscue occuparit, quae serius venientibus pretio locarit in suum commodum.
+
+2;discolor;discoloris;decolor;decoloris
+discolor;decolor
+**Discolor** &amp; **Decolor** ita inter se differunt, **Discolor** dicitur, quod colore est diuerso &amp; dissimili, **Decolor** vero, quod colore est vitiato, vel sine colore.
+
+2;dum;donec
+dum;donec
+**Dum** &amp; **donec** elegantia differunt. Nam __ne__, __non__, __nec__, commode iunguntur cum **dum**, nunquam cum **donec**. **Dum** &amp; **donec**, vsque, ad, vel quamdiu &amp; **donec** Subiunctiuo, **dum** indicatiuo conueniunt.
+
+2;error;erroris;culpa
+error;culpa
+**Error** est, cum casu quispiam decipitur, &amp; aliud pro alio accipitur, **Culpa** vero, quum ob negligentiam quispiam peccat. Sic <cit><bibl><author>Cic.</author> <title>Epist. lib. 10.</title></bibl> <quote>Credulit<add>a</add>s enim error est magis, quam culpa</quote></cit>.
+
+2;fabula;apologus;ἀπολογος;argumentum;fabulosus
+fabula;apologus;argumentum;fabulosus
+**Fabula** est res ficta, nec verisimilis quidem, significat etiam fabula rem vehementer diuulgatam, quamuis etiam nonnunquam vera sit. Sic <cit><bibl><author>Iuuenal.</author></bibl> <quote>It noua nec tristis per cunctas fabula coenas</quote></cit>. Et <cit><bibl><author>Ouid.</author></bibl> <quote><lg><l>Haec fuit in toto notissima fabula caelo.</l></lg></quote></cit> **Apologus** non differt a fabula, sed addit, vt praeter id, quod fabula sit res ficta &amp; non verisimilis, allegorice tamen aliquid contineat, quod ad vitam &amp; ad mores pertineat, vt sunt Aesopi fabulae. **Argumentum** est res, non vera, sed verisimils, vt sunt argumenta Comoediarum. **Fabulosum** est proprie, de quo omnes fantur. <bibl><author>Land.</author> in <title>Horat.</title></bibl>
+
+3;conqueror;lamentor;plango;ejulo;vociferor;vocifero
+conqueror<opt>, conqueri</opt>;lamentor<opt>, lamentari</opt>;plango<opt>, plangere</opt>;ejulo<opt>, ejulare</opt>;vociferor<opt>, vociferari</opt>
+**Conqueri** &amp; **lamentari** differunt, quod **conquerendo**, quae res sit, quae nos affligat, explicare solemus, **Lamentantur** vero, si voce querula &amp; tristi oratione cladem suam testantur. <cit><bibl><author>Cic.</author> enim dicit <title>Tusc. Quaest. 2.</title></bibl> <quote>conqueri fortunam aduersam, non lamentari, decet</quote></cit>. **Plangebant**, quum pro nimio dolore pectus caputue, aut aliud membrum percutiebant. **Eiulare**, elata voce __flere__ demonstrat, &amp; quod maxime est mulierum. **Vociferari** est nonnunquam vehementer clamare, &amp; __vociferantes__ non modo dolorem, verum etiam indignationem voce effrentat demonstrabant.
+
+3;fraxinus;pinus;populus;abies
+fraxĭnus;pīnus;pōpulus;abiēs
+**Fraxinus** in siluis, pulcherrima **pinus** in hortis, **Populus** in fluuiis, **abies** in montibus altis, <author>Virgil.</author>
+
+3;furtum;rapina
+fūrtum;rapīna
+**Furta** dicuntur, quae occulte fiunt, **Rapinae** quae per vim. <cit><bibl><author>Cic.</author> <title>Epist. ad Famil. l. 10.</title></bibl> <quote>Sed praeter furta &amp; rapinas &amp; virgis caesos socios</quote></cit>.
+
+3;gigno;creo
+gigno<opt>, gignere</opt>;creo<opt>, creare</opt>
+**Gignere** significat de substantia aliquid producere, simile secundum causam. **Creare** significat ex nihilo aliquid fabricare, diuersum a substantia creantis. <bibl><author>Chemnic.</author> <title>Loc. 4. c. 1.</title></bibl>
+
+3;gratificor;gratifico;gratus
+gratificor<opt>, gratificari</opt>;rem gratam facere
+**Gratificari** plus est, quam **rem gratam facere**. **Gratificamur** enim, quod si beneficia conferimus, **facimus** vero **rem gratam**, cum obsequimur &amp; inseruimus, vnde Deos hominibus **gratificari**, dicimus, **gratum** vero **facere** non dicimus.
+
+3;hospitium;hospes;hospitis;hospitalitas;hospitalitatis;hospitalia;hospitale;hospitalis
+hospitium;hospes;hospitalitas;hospitalia<opt> pl.</opt>
+**Hospitium** est domus, quae gratis venientibus hospitibus patet. **Hospites** proprie dicuntur amici diuersarum patriarum, qui se mutuo recipiunt, cum alter in alterius patria peregrinus est, talisque amicitia **Hospitalitas** appellatur, **Hospitalia** vocantur aedes, quae publice parantur ad recipiendos egenos.
+
+3;imber;imbris;pluvia;pluuia
+imber;pluvia
+**Imbres** impetuosi sunt, **Pluuiae** vero lentae.
+
+3;infector;infectoris;offector;offectoris
+infector;offector
+**Infector** colorem mutat, **offector** officio obest. <author>Corn. Front.</author>
+
+3;insomnium;phantasma;phantasmatis;φάντασμα;visum;incubus;oraculum;visio;visionis;somnium
+insomnium;phantasma;visum;incubus;oraculum;visio
+**Insomnium** dicimus, cum ex humorum peccato vel ex nimia cupiditate vel metu talia dormientibus nobis se offerunt, qualia aut humorum est natura,vt cum ex vndantia bilis igneae purpureaeue imagines sese ingerunt, aut talia videmus sopiti, qualia cupiebamus timebamusue. **Phantasma** est, quod Cicero **visum** appellat, quando in prima somni nebula, cum adhuc vigilare credimus, &amp; vix dormire coeperimus, videmus varias quidem, sed omnes a natura discrepantes species formasque irruentes, inter has, quem latini dicunt, **incubus** est, &amp; quem vulgaris opinio dormientes inuadere &amp; suo pondere oppressos grauare credit. **Oraculum**, cum dormientibus Deus vel aliqua s. persona loqui &amp; apte futura praedicere creditur, dicebatur. **Visio** vero est, cum in dormiendo non audire, sed videre quippiam videmur, quod vigilantibus ita eueniat, vt dormientes vidimus. **Somnium** autem est, quod ambagibus velaminibusque tegis id, quod sine interpretatione non intellegitur. <bibl><author>Land.</author> in <title>Horat.</title></bibl>
+
+4;interlunium;interlumina
+interlunium;interlumina
+**Interlunium** id dicitur spatium temporis, in quo nec amplius luna vetus adparet, nec adhuc noua videtur: **Interlumina** dicimus spatium, quod inter columnas relinquitur.
+
+4;lego;ablego;allego
+lego<opt>, legare</opt>;ablego<opt>, ablegare</opt>;allego<opt>, allegare</opt>
+**Legare** significat aliquem pro caussis seu rebus publicis magnisque mittere, **ablegare**, in exilium eiicere, aut e conspectu remouere. **Allegare** in legationem aliquem rogatum pro causis seu rebus priuatis mittere.
+
+4;lingo;lambo
+lingo<opt>, lingere</opt>;lambo<opt>, lambere</opt>
+**Lingere** est, cum aliquid suauiter tangimus, <cit><bibl><author>Plaut.</author> <title>Casin. 2. 8. 21.</title></bibl> <quote>lingere mel</quote></cit>. **Lambit**, qui placide tangit, <cit><bibl><author>Columell.</author> <title>8. 17.</title></bibl> <quote>lambere cibos</quote></cit>.
+
+4;lito;sacrifico
+lito<opt>, litare</opt>;sacrifico<opt>, sacrificare</opt>
+**Litabant** tantum boni, **sacrificabant** etiam mali.
+
+4;ludo;jocor;joco
+ludo<opt>, ludere</opt>;jocor<opt>, jocari</opt>
+**Ludere** in rem **iocari** in verbis.
+
+4;misceo;propino
+misceo<opt>, miscere</opt>;propino<opt>, propinare</opt>
+**Miscebat** pocula minister, quoniam aquam addebat mero, proptereaque iam adiuncta aqua mixtum appellabatur. Hoc ergo a ministro ei, qui dignior erat, dabatur. Hic autem, quum acceperit partemque biberit, eligit, cui secundo deinde porrigat, &amp; hinc prior **Propinare** dicebatur.
+
+4;morosus;moratus
+morosus;moratus
+**Morosus** in vitium declinat; **Moratus** autem bonis moribus imbutus dicitur. Hinc <cit><bibl><author>Plautus</author> <add><title>Aul.</title></add></bibl>: <quote>dummodo morata, dotata est satis</quote></cit>.
+
+4;mulus;hinnus;ἴννος
+mulus;hinnus<opt> (ἴννος)</opt>
+**Mulus** ex equa &amp; asino gignitur, <bibl><author>Plin.</author> <title>H. N. 8. 44.</title></bibl> **Hinnus** ex equo &amp; asina ortum veteres dixerunt. <bibl><author>Varro</author> <title>de re rustica 2. 8.</title></bibl>
+
+4;munimentum;moenimentum;monumentum
+munimentum;monumentum
+**Munimentum**, a muniendo, dicimus, quidquid vallo, fossa, aggere, murorum aut lignorum strue, &amp; alia huiusmodi re contra hostium aduentum munitum est. **Monumentum** vero, per __o__ &amp; __u__ scriptum, quicquid in mortuorum memoriam factum est, a monendo deductum, quod praesentes moneat praeteritarum rerum.
+
+4;non est;non est, quod;non est, ut;quare non est, ut
+non est, quod;non est, ut;quare non est, ut
+**Non est, quod**, excludit necessitatem, **non est, vt**, excludit possibilitatem. <bibl><author>Lucret.</author> <title>lib. II de rerum nat.</title></bibl> **Quare non est, vt** credere possis esse infinitis distantia somnia formis.
+
+4;non;ne;neque;nec;et non
+non;ne;neque
+**Non** negat solum, **ne** &amp; **neque** negant &amp; copulant, significantque __et non__.
+
+4;obsecro;resecro
+obsecro<opt>, obsecrare</opt>;resecro<opt>, resecrare</opt>
+**Obsecro** &amp; **resecro** differunt. Si quis antiquitus **Obsecro** dixerat, eum, quem alloquebatur obstringere quodam sacramento &amp; iureiurando videbatur, &amp; si ea vellet, vt eam religione solueret, <unclear reason="illegible">subiiciebat</unclear><add>.</add> **Resecro**, quo verbo obsecrationem soluebat. Etiam qui obsecrabatur, ne religione ea obligaretur, **Resecro** dicere solebat. <bibl><author>Plaut.</author> <title>Aul. act. 4. 7.</title> <title>Pers. act. 1. 1.</title></bibl>
+
+5;obvallo;obuallo;circumvallo;circumuallo
+obvallo<opt>, obvallare</opt>;circumvallo<opt>, circumvallare</opt>
+**Obuallare** verbo **circumuallare** contrarium videtur. **Obuallare** enim dicitur de iis, qui intus sunt, &amp; tanquam oppidum defendunt. <cit><bibl><author>Cic.</author> <title>de Lege Agr.</title></bibl> <quote>&amp; eum locum quem nobilitas praesidiis firmatum, atque omni ratione obuallatum tenebat, me duce, rescidistis</quote></cit>.
+
+5;oscen;oscinis;praepes;praepetis
+oscen;praepes
+**Oscinis** est volucris, qui voce &amp; ore dat augurium, nam volucres, ex quibus capitur augurium, aut dicitur **oscines**, qui ore canant, aut **Praepetes**, i.e. volantes, qui volatu dent augurium. <cit><bibl><author>Cic.</author> <title>Epist. ad Famil. lib. 6.</title></bibl> <quote>Non igitur ex alitis volatu, nec ex cantu sinistro oscinis</quote></cit>.
+
+5;paedagogus;παιδαγωγός;praeceptor;praeceptoris
+paedagogus<opt> (παιδαγωγός)</opt>;praeceptor
+**Paedagogi** nil nisi asseclae erant, &amp; vt puerorum progressus, actiones, mores obseruarent aut formarent. At **Praeceptores** docebant, &amp; artes scientiasque infundebant.
+
+5;praesens;praesentis;futurum;imperativus
+praesens;futurum
+**Praesens** in omnibus Imperatiuis, vt __videte__, imperat, **futurum**, vt __videtote__, mandat. <author>Corn. Front.</author>
+
+5;prudentia;prudens;prudentis;sapiens;sapientis
+prudentia;sapientia
+**Prudentia** est recta ratio rerum agendarum, **sapientia** autem est rerum humanarum &amp; diuinarum scientia, haec Deo etiam, illa homini competit.
+
+5;purpureus;purpuratus
+purpureus;purpuratus
+**Purpureum** dicimus, quod totum ex purpura, **Purpuratum**, quod purpura ornatum est.
+
+5;quare;quapropter;quamobrem;ergo;igitur
+quare;quapropter;quamobrem;ergo;igitur
+**Quare**, **quapropter**, **quamobrem**, in maioribus sane conclusionibus, **ergo** &amp; **igitur** in minoribus vti solemus.
+
+5;quoque;etiam
+quoque;etiam
+**Quoque** &amp; **etiam** bene iunguntur, quoniam diuersa significant. Nam **quoque** est similiter, **etiam** aliquando adhuc significat. <cit><bibl><author>Terent.</author></bibl> <quote>Nihil etiam suspicans mali</quote></cit>. <cit><bibl><author>Virgil.</author></bibl> <quote>Idemque etiam</quote></cit>.
+
+5;reconcilio;concilio
+reconcilio<opt>, reconciliare</opt>;concilio<opt>, conciliare</opt>
+**Reconciliamus** veteres, **conciliamus** nouos, <cit><bibl><author>Cic.</author></bibl> <quote>pro reconciliata gratia</quote></cit>.
+
+5;scyphus;σκύφος;cantharus;κάνθαρος;culullus;culillus
+scyphus<opt> (σκύφος)</opt>;cantharus<opt> (κάνθαρος)</opt>;culullus
+**Scyphi** proprie pocula Herculis, vnde **scyphus** Herculanus, **Canthari** Bacchi erant, <bibl><author>Val. Max.</author> <title>3. 6. 6.</title></bibl> **Cululli** sunt calices fictiles, quibus in sacris pontifices vtebantur. <author>Acron.</author>
+
+5;scopulus;σκόπελος;pumex;pumicis
+scopulus;pumex
+**Scopulus** &amp; **Pumex** ita diuiduntur, vt ait <cit><author>Landinus</author>, <quote>mare tempestuosum in scopulis eliditur</quote></cit>, itaque ingentia sunt saxa maris. **Pumex** autem lapis leuis &amp; cauernosus est, quem credunt ex spuma marina gigni.
+
+5;scribo;exaro
+scribo<opt>, scribere</opt>;exaro<opt>, exarare</opt>
+**Scribere** est etiam ex ingenio facere, **exarare** vero tantum figuras litterarum facere.
+
+5;securus;tutus
+securus;tutus
+**Securus** differt a **tuto**, vt **securus** is fit, qui non timet. etiam si imminet periculum. **Tutus** vero, qui extra periculum, quamuis etiam timeat.
+
+5;sequor;prosequor;assequor;adsequor
+sequor<opt>, sequi</opt>;prosequor<opt>, prosequi</opt>;assequor<opt>, assequi</opt>
+**Sequimur** amici, **Prosequimur** comitantes, **Assequimur** cum coaequamur iis, qui hactenus procedebant. <author>Land.</author>
+
+5;taciturnitas;taciturnitatis;silentium
+taciturnitas;silentium
+**Taciturnitas** est cum ratione, <cit><author>Terent.</author> <quote>sed his, quas semper in te intellexi sitas, fide &amp; taciturnitate</quote></cit>. **Silentium** autem potest esse sine ratione.
+
+5;transilio;transsilio;transeo
+transilio<opt>, transilire</opt>;transeo<opt>, transire</opt>
+**Transilio** plus est, quam **Transeo**. **Transimus** enim etiam lento passu, **transilimus** autem saltu, nam est ex __trans__ &amp; __salio__.
+
+6;turbidus;turgidus
+turbidus;turgidus
+**Turbidum** ex tempestate, **turgidum** ex fluctibus. <author>Land.</author>
+
+6;vitulus;agnus;haedus
+vitulus;agnus;haedus
+**Vituli** dicuntur in boue &amp; elephanto, **Agni** ex oue, &amp; capris **Haedi**. <bibl><author>Land.</author> in <title>Horat.</title></bibl>
+
+6;vitupero;increpo
+vitupero<opt>, vituperare</opt>;increpo<opt>, increpare</opt>
+**Vituperare** &amp; **Increpare**, vt antecedens &amp; consequens differunt. **Vituperamus** enim ea, quae grauiter ferimus. **Increpare** autem est dictum a crepitu sonituque verborum, nam reprehendentis est, __crepitum sonitumque__ in voce adhibere.
+
